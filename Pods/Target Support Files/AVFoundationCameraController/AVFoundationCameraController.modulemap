@@ -1,0 +1,6 @@
+module AVFoundationCameraController {
+  umbrella header "AVFoundationCameraController-umbrella.h"
+
+  export *
+  module * { export * }
+}

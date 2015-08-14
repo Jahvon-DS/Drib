@@ -1,0 +1,6 @@
+module UIImage_ResizeNCrop {
+  umbrella header "UIImage-ResizeNCrop-umbrella.h"
+
+  export *
+  module * { export * }
+}

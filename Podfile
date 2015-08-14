@@ -1,0 +1,5 @@
+platform :ios, '8.0' 
+pod 'JSQMessagesViewController' 
+pod 'INTULocationManager'
+pod 'ACEDrawingView'
+pod 'AVFoundationCameraController'
